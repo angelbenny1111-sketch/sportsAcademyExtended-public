@@ -1,0 +1,7 @@
+*.class
+.env
+.env.*
+!.env.example
+bin/
+out/
+sources.txt
